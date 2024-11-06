@@ -1,0 +1,14 @@
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Urun\Urun\bin\Debug\net8.0\Urun.exe
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Urun\Urun\bin\Debug\net8.0\Urun.deps.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Urun\Urun\bin\Debug\net8.0\Urun.runtimeconfig.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Urun\Urun\bin\Debug\net8.0\Urun.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Urun\Urun\bin\Debug\net8.0\Urun.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Urun\Urun\obj\Debug\net8.0\Urun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Urun\Urun\obj\Debug\net8.0\Urun.AssemblyInfoInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Urun\Urun\obj\Debug\net8.0\Urun.AssemblyInfo.cs
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Urun\Urun\obj\Debug\net8.0\Urun.csproj.CoreCompileInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Urun\Urun\obj\Debug\net8.0\Urun.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Urun\Urun\obj\Debug\net8.0\refint\Urun.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Urun\Urun\obj\Debug\net8.0\Urun.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Urun\Urun\obj\Debug\net8.0\Urun.genruntimeconfig.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\Urun\Urun\obj\Debug\net8.0\ref\Urun.dll
